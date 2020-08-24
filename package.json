@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "3daire-gatsby",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Visites virtuelles 3D",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
